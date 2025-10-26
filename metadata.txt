@@ -1,0 +1,18 @@
+[general]
+name=SwipeMaster
+qgisMinimumVersion=3.0
+description=A powerful QGIS plugin for layer comparison using swipe tool with customizable direction, line style, and layer opacity.
+version=1.0
+author=Mostafa Shiyari
+email=mostafashiyari@gmail.com
+icon=swipemaster.png
+about=A QGIS plugin providing interactive layer swiping with multiple directions, customizable line styles, and adjustable layer opacity in hidden areas.
+category=Layer
+tags=swipe,compare,layer,opacity,direction,qgis
+tracker=https://github.com/MostafaShiyari/SwipeMaster/issues
+repository=https://github.com/MostafaShiyari/SwipeMaster
+homepage=https://github.com/MostafaShiyari/SwipeMaster
+changelog=Initial release with swipe tool, multiple directions, customizable line styles, and layer opacity control
+license=MIT
+experimental=False
+deprecated=False
