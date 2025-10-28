@@ -46,4 +46,4 @@ The plugin opens a compact floating panel that includes:
 ### Option 1 — Manual Installation
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/YourUserName/SwipeMaster.git
+git clone https://github.com/MostafaShiyari/SwipeMaster.git
